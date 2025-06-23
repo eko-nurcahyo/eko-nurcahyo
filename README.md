@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Informatics Engineering Student at Esa Unggul University, Tangerang</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+in+Progress%0AUI%2FUX+Enthusiast%0AAlways+Learning+%26+Building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Engineer+in+Progress%0AUI%2FUX+Enthusiast%0AAlways+Learning+%26+Building..." alt="Typing SVG" />
 </p>
 
 ---
