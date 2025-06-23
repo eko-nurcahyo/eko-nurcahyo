@@ -2,17 +2,16 @@
 <h3 align="center">🚀 Informatics Engineering Student at Esa Unggul University, Tangerang</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Software+Engineer+in+Progress;UI%2FUX+Enthusiast+%F0%9F%92%BB;Always+learning+%26+building..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+in+Progress%0AUI%2FUX+Enthusiast%0AAlways+Learning+%26+Building..." alt="Typing SVG" />
 </p>
-
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 A passionate Informatics Engineering student at Esa Unggul University  
-- 💡 Currently focused on learning **Web Development**, **UI/UX**, and **app development**  
-- 🛠️ Love exploring new technologies & working in collaborative team projects  
+- 🎓 I'm currently studying **Informatics Engineering** at Esa Unggul University  
+- 💡 Passionate about **web development**, **UI/UX design**, and building useful software  
+- 🛠️ Eager to explore new technologies and collaborate in creative team projects  
 - 📬 Reach me on Instagram:
 
 <p>
